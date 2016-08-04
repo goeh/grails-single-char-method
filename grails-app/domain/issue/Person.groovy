@@ -1,7 +1,7 @@
 package issue
 
 /*
- * Single character field 'a' causes problem.
+ * Simple person class.
  */
 class Person {
     String firstName
