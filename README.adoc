@@ -26,3 +26,5 @@ class PersonLink {
     .../grails-app/domain/issue/PersonLink.groovy: -1: Repetitive method name/signature for method 'java.lang.Object getAId()' in class 'issue.PersonLink'.
     @ line -1, column -1.
     .../grails-app/domain/issue/PersonLink.groovy: -1: Repetitive method name/signature for method 'java.lang.Object getBId()' in class 'issue.PersonLink'.
+
+Issue reported here https://github.com/grails/grails-data-mapping/issues/761
